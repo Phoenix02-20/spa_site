@@ -3,6 +3,7 @@
 This is my submission for the Xenonstack task.
 ## Setup
 open the files in atom or miniconda.
+download django framework
 1. pip install -r requirements.txt
 2. cd spa
 3. python manage.py makemigrations
