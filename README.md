@@ -14,6 +14,7 @@ Should have less secure apps settings turned on
 4. python manage.py migrate
 5. python manage.py runserver
 6. Access admin panel by creating superuser :->  python manage.py createsuperuser
+Run the task on localhost by running command python mnanage.py runserver
 
 ## Screenshots
 #### This is the main screen.
