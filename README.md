@@ -3,7 +3,11 @@
 This is my submission for the Xenonstack task.
 ## Setup
 open the files in atom or miniconda.
-download django framework
+download django framework.
+Make sure to put email id and password in the settings.py
+so that you can get mails from contact us. The email account
+Should have less secure apps settings turned on
+
 1. pip install -r requirements.txt
 2. cd spa
 3. python manage.py makemigrations
